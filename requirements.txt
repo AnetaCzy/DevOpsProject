@@ -1,1 +1,6 @@
-Flask
+flask
+psycopg2-binary
+request
+redirect
+url_for
+render_template_string

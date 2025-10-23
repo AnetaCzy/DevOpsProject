@@ -12,7 +12,7 @@
 ~h
 # Command Line History (newest to oldest):
 :wq
-|2,0,1761209080,,"wq"
+|2,0,1761217706,,"wq"
 :qw
 |2,0,1761204914,,"qw"
 :q!
@@ -33,40 +33,98 @@
 # Registers:
 
 # File marks:
-'0  23  36  ~/main.py
-|4,48,23,36,1761209080,"~/main.py"
-'1  1  0  ~/Dockerfile
-|4,49,1,0,1761204918,"~/Dockerfile"
-'2  1  0  ~/Dockerfile
-|4,50,1,0,1761204918,"~/Dockerfile"
-'3  11  24  ~/Dockerfile
-|4,51,11,24,1761203829,"~/Dockerfile"
-'4  11  24  ~/Dockerfile
-|4,52,11,24,1761203829,"~/Dockerfile"
-'5  19  97  ~/Dockerfile
-|4,53,19,97,1761203702,"~/Dockerfile"
-'6  1  265  ~/Dockerfile
-|4,54,1,265,1761203702,"~/Dockerfile"
-'7  21  97  ~/Dockerfile
-|4,55,21,97,1761203702,"~/Dockerfile"
-'8  11  97  ~/Dockerfile
-|4,56,11,97,1761203702,"~/Dockerfile"
-'9  19  97  ~/Dockerfile
-|4,57,19,97,1761203702,"~/Dockerfile"
+'0  5  0  ~/requirements.txt
+|4,48,5,0,1761217706,"~/requirements.txt"
+'1  2  13  ~/requirements.txt
+|4,49,2,13,1761217404,"~/requirements.txt"
+'2  2  13  ~/requirements.txt
+|4,50,2,13,1761217404,"~/requirements.txt"
+'3  101  37  ~/main.py
+|4,51,101,37,1761214333,"~/main.py"
+'4  101  37  ~/main.py
+|4,52,101,37,1761214333,"~/main.py"
+'5  101  37  ~/main.py
+|4,53,101,37,1761214333,"~/main.py"
+'6  101  37  ~/main.py
+|4,54,101,37,1761214333,"~/main.py"
+'7  1  0  ~/main.py
+|4,55,1,0,1761214245,"~/main.py"
+'8  1  0  ~/main.py
+|4,56,1,0,1761214245,"~/main.py"
+'9  1  0  ~/main.py
+|4,57,1,0,1761214245,"~/main.py"
 
 # Jumplist (newest first):
+-'  5  0  ~/requirements.txt
+|4,39,5,0,1761217706,"~/requirements.txt"
+-'  2  13  ~/requirements.txt
+|4,39,2,13,1761217632,"~/requirements.txt"
+-'  2  13  ~/requirements.txt
+|4,39,2,13,1761217404,"~/requirements.txt"
+-'  1  4  ~/requirements.txt
+|4,39,1,4,1761217370,"~/requirements.txt"
+-'  1  4  ~/requirements.txt
+|4,39,1,4,1761217370,"~/requirements.txt"
+-'  101  37  ~/main.py
+|4,39,101,37,1761214333,"~/main.py"
+-'  101  37  ~/main.py
+|4,39,101,37,1761214333,"~/main.py"
+-'  101  37  ~/main.py
+|4,39,101,37,1761214333,"~/main.py"
+-'  1  532  ~/main.py
+|4,39,1,532,1761214260,"~/main.py"
+-'  1  532  ~/main.py
+|4,39,1,532,1761214260,"~/main.py"
+-'  1  532  ~/main.py
+|4,39,1,532,1761214260,"~/main.py"
+-'  1  0  ~/main.py
+|4,39,1,0,1761214245,"~/main.py"
 -'  23  36  ~/main.py
 |4,39,23,36,1761209080,"~/main.py"
+-'  23  36  ~/main.py
+|4,39,23,36,1761209080,"~/main.py"
+-'  23  36  ~/main.py
+|4,39,23,36,1761209080,"~/main.py"
+-'  23  36  ~/main.py
+|4,39,23,36,1761209080,"~/main.py"
+-'  14  4  ~/main.py
+|4,39,14,4,1761209044,"~/main.py"
+-'  14  4  ~/main.py
+|4,39,14,4,1761209044,"~/main.py"
+-'  14  4  ~/main.py
+|4,39,14,4,1761209044,"~/main.py"
 -'  14  4  ~/main.py
 |4,39,14,4,1761209044,"~/main.py"
 -'  1  0  ~/Dockerfile
 |4,39,1,0,1761204918,"~/Dockerfile"
 -'  1  0  ~/Dockerfile
 |4,39,1,0,1761204918,"~/Dockerfile"
+-'  1  0  ~/Dockerfile
+|4,39,1,0,1761204918,"~/Dockerfile"
+-'  1  0  ~/Dockerfile
+|4,39,1,0,1761204918,"~/Dockerfile"
+-'  1  0  ~/Dockerfile
+|4,39,1,0,1761204918,"~/Dockerfile"
+-'  1  0  ~/Dockerfile
+|4,39,1,0,1761204918,"~/Dockerfile"
+-'  1  0  ~/Dockerfile
+|4,39,1,0,1761204918,"~/Dockerfile"
 -'  11  24  ~/Dockerfile
 |4,39,11,24,1761203829,"~/Dockerfile"
 -'  11  24  ~/Dockerfile
 |4,39,11,24,1761203829,"~/Dockerfile"
+-'  11  24  ~/Dockerfile
+|4,39,11,24,1761203829,"~/Dockerfile"
+-'  11  24  ~/Dockerfile
+|4,39,11,24,1761203829,"~/Dockerfile"
+-'  11  24  ~/Dockerfile
+|4,39,11,24,1761203829,"~/Dockerfile"
+-'  11  24  ~/Dockerfile
+|4,39,11,24,1761203829,"~/Dockerfile"
+-'  11  24  ~/Dockerfile
+|4,39,11,24,1761203829,"~/Dockerfile"
+-'  1  0  ~/Dockerfile
+|4,39,1,0,1761203733,"~/Dockerfile"
 -'  1  0  ~/Dockerfile
 |4,39,1,0,1761203733,"~/Dockerfile"
 -'  19  97  ~/Dockerfile
@@ -77,8 +135,32 @@
 |4,39,19,97,1761203702,"~/Dockerfile"
 -'  21  97  ~/Dockerfile
 |4,39,21,97,1761203702,"~/Dockerfile"
+-'  19  97  ~/Dockerfile
+|4,39,19,97,1761203702,"~/Dockerfile"
+-'  21  97  ~/Dockerfile
+|4,39,21,97,1761203702,"~/Dockerfile"
+-'  19  97  ~/Dockerfile
+|4,39,19,97,1761203702,"~/Dockerfile"
+-'  21  97  ~/Dockerfile
+|4,39,21,97,1761203702,"~/Dockerfile"
+-'  19  97  ~/Dockerfile
+|4,39,19,97,1761203702,"~/Dockerfile"
+-'  21  97  ~/Dockerfile
+|4,39,21,97,1761203702,"~/Dockerfile"
 -'  11  97  ~/Dockerfile
 |4,39,11,97,1761203702,"~/Dockerfile"
+-'  19  97  ~/Dockerfile
+|4,39,19,97,1761203702,"~/Dockerfile"
+-'  21  97  ~/Dockerfile
+|4,39,21,97,1761203702,"~/Dockerfile"
+-'  19  97  ~/Dockerfile
+|4,39,19,97,1761203702,"~/Dockerfile"
+-'  21  97  ~/Dockerfile
+|4,39,21,97,1761203702,"~/Dockerfile"
+-'  11  97  ~/Dockerfile
+|4,39,11,97,1761203702,"~/Dockerfile"
+-'  1  0  ~/Dockerfile
+|4,39,1,0,1761202961,"~/Dockerfile"
 -'  1  0  ~/Dockerfile
 |4,39,1,0,1761202961,"~/Dockerfile"
 -'  1  4  ~/requirements.txt
@@ -99,6 +181,26 @@
 |4,39,1,4,1761202860,"~/requirements.txt"
 -'  1  4  ~/requirements.txt
 |4,39,1,4,1761202860,"~/requirements.txt"
+-'  1  4  ~/requirements.txt
+|4,39,1,4,1761202860,"~/requirements.txt"
+-'  1  4  ~/requirements.txt
+|4,39,1,4,1761202860,"~/requirements.txt"
+-'  1  4  ~/requirements.txt
+|4,39,1,4,1761202860,"~/requirements.txt"
+-'  1  4  ~/requirements.txt
+|4,39,1,4,1761202860,"~/requirements.txt"
+-'  1  4  ~/requirements.txt
+|4,39,1,4,1761202860,"~/requirements.txt"
+-'  1  4  ~/requirements.txt
+|4,39,1,4,1761202860,"~/requirements.txt"
+-'  1  4  ~/requirements.txt
+|4,39,1,4,1761202860,"~/requirements.txt"
+-'  1  4  ~/requirements.txt
+|4,39,1,4,1761202860,"~/requirements.txt"
+-'  1  4  ~/requirements.txt
+|4,39,1,4,1761202860,"~/requirements.txt"
+-'  1  4  ~/requirements.txt
+|4,39,1,4,1761202860,"~/requirements.txt"
 -'  14  47  ~/main.py
 |4,39,14,47,1761202815,"~/main.py"
 -'  14  47  ~/main.py
@@ -131,18 +233,6 @@
 |4,39,14,47,1761202815,"~/main.py"
 -'  14  47  ~/main.py
 |4,39,14,47,1761202815,"~/main.py"
--'  1  0  ~/main.py
-|4,39,1,0,1761202688,"~/main.py"
--'  1  0  ~/main.py
-|4,39,1,0,1761202688,"~/main.py"
--'  1  0  ~/main.py
-|4,39,1,0,1761202688,"~/main.py"
--'  1  0  ~/main.py
-|4,39,1,0,1761202688,"~/main.py"
--'  1  0  ~/main.py
-|4,39,1,0,1761202688,"~/main.py"
--'  1  0  ~/main.py
-|4,39,1,0,1761202688,"~/main.py"
 -'  1  0  ~/main.py
 |4,39,1,0,1761202688,"~/main.py"
 -'  1  0  ~/main.py
@@ -168,13 +258,25 @@
 
 # History of marks within files (newest to oldest):
 
+> ~/requirements.txt
+	*	1761217701	0
+	"	5	0
+	^	5	0
+	.	4	8
+	+	1	4
+	+	1	5
+	+	2	15
+	+	3	7
+	+	4	8
+
 > ~/main.py
-	*	1761209074	0
-	"	23	36
-	^	23	37
-	.	23	36
-	+	14	47
-	+	23	36
+	*	1761214330	0
+	"	101	37
+	^	101	38
+	.	101	36
+	+	1	338
+	+	1	496
+	+	101	36
 
 > ~/Dockerfile
 	*	1761204914	0
@@ -186,10 +288,3 @@
 	+	9	24
 	+	1	0
 	+	2	0
-
-> ~/requirements.txt
-	*	1761202856	0
-	"	1	4
-	^	1	5
-	.	1	4
-	+	1	4
